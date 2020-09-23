@@ -9,6 +9,7 @@ public class T205_isIsomorphic {
     解题思路很妙！！！
     通过map映射结构来搞定它
 
+
     容易犯的错误：只验证了一个方向
     eg：s=ab,t=aa
     选择s作为主遍历对象，第一次加入映射（a,a），第二次因为不存在key-b,又加入（b,a）,结果错误
