@@ -1,4 +1,12 @@
 # The-way-to-job
+
+![license](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=.github/PULL_REQUEST_TEMPLATE.md)
+
 ## 介绍
 
 这是一份计算机笔记
@@ -7,7 +15,7 @@
 
 ## 目录
 
-1
+3
 
 ## 技术栈
 
