@@ -1,11 +1,11 @@
 # The-way-to-job
 
-![license](https://github.com/ch-Gao/The-way-to-job?path=LICENSE)
-![readme](https://github.com/ch-Gao/The-way-to-job?path=README.md)
-![contributing](https://github.com/ch-Gao/The-way-to-job?path=CONTRIBUTING.md)
-![coc](https://github.com/ch-Gao/The-way-to-job?path=CODE_OF_CONDUCT.md)
-![codestyle](https://github.com/ch-Gao/The-way-to-job?path=CODE_STYLE.md)
-![pulltemplate](https://github.com/ch-Gao/The-way-to-job?path=.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
+![license](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/ch-Gao/The-way-to-job?path=.github/PULL_REQUEST_TEMPLATE.md)
 
 ## 介绍
 
@@ -15,7 +15,7 @@
 
 ## 目录
 
-1
+3
 
 ## 技术栈
 
